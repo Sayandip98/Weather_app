@@ -1,0 +1,141 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.app {
+  min-height: 100vh;
+  background-color: linear-gradient(135deg, #1d2671, #c33764);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 20px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.weather-container {
+  width: 100%;
+  max-width: 500px;
+  background: rgba(255, 255, 255, 0.12);
+  backdrop-filter: blur(18px);
+  border-radius: 20px;
+  padding: 30px;
+  color: white;
+  box-shadow: 0 8px 32px rgba(0, 0, 0, 0.25);
+  text-align: center;
+}
+
+.weather-container h1 {
+  font-size: 2.2rem;
+  margin-bottom: 8px;
+  color: rgb(79, 66, 66);
+}
+
+.subtitle {
+  color: #bf6868;
+  margin-bottom: 24px;
+  font-size: 0.95rem;
+}
+
+.search-box {
+  display: flex;
+  gap: 10px;
+  margin-bottom: 25px;
+}
+
+.search-box input {
+  flex: 1;
+  padding: 14px;
+  border: 1px solid burlywood;
+  outline: none;
+  border-radius: 12px;
+  font-size: 1rem;
+}
+
+.search-box button {
+  padding: 14px 20px;
+  border: none;
+  border-radius: 12px;
+  background: #00c6ff;
+  color: white;
+  font-weight: bold;
+  cursor: pointer;
+  transition: 0.3s ease;
+}
+
+.search-box button:hover {
+  background: #0096c7;
+}
+
+.loading {
+  color: #fff8c5;
+  margin-bottom: 15px;
+}
+
+.error {
+  color: #ffd6d6;
+  background: rgba(255, 0, 0, 0.15);
+  padding: 10px;
+  border-radius: 10px;
+  margin-bottom: 15px;
+}
+
+/* Weather card style */
+.weather-card {
+  margin-top: 20px;
+  background-color: rgba(49, 41, 41, 0.12);
+  border-radius: 18px;
+  padding: 20px;
+}
+
+.weather-card h2 {
+  font-size: 1.5rem;
+  margin-bottom: 10px;
+}
+
+.weather-icon {
+  width: 100px;
+  height: 100px;
+}
+
+.weather-card h3 {
+  font-size: 3rem;
+  margin: 10px 0;
+}
+
+.weather-main {
+  font-size: 1.3rem;
+  font-weight: bold;
+  margin-bottom: 5px;
+}
+
+.weather-desc {
+  text-transform: capitalize;
+  color: #0f0f0f;
+  margin-bottom: 20px;
+}
+
+.weather-details {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 12px;
+  margin-top: 20px;
+}
+
+.detail-box {
+  background: rgba(16, 15, 15, 0.15);
+  padding: 14px;
+  border-radius: 12px;
+}
+
+.detail-box span{
+  display: block;
+  font-size: 0.9rem;
+  color: #0f0f0f;
+  margin-bottom: 6px;
+}
+
+.detail-box strong{
+  font-size: 1.1rem;
+}
