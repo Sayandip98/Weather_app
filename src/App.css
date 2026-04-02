@@ -69,13 +69,13 @@
 }
 
 .loading {
-  color: #fff8c5;
+  color: #3b381e;
   margin-bottom: 15px;
 }
 
 .error {
-  color: #ffd6d6;
-  background: rgba(255, 0, 0, 0.15);
+  color: red;
+  background-color: rgba(255, 0, 0, 0.15);
   padding: 10px;
   border-radius: 10px;
   margin-bottom: 15px;
