@@ -42,7 +42,7 @@ Want to run this project locally? Follow these simple steps:
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/yourusername/weather-app.git
+https://github.com/Sayandip98/Weather_app.git
 cd weather-app
 ```
 
