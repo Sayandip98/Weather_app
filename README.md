@@ -15,6 +15,26 @@ A clean, modern, and highly responsive weather application built with **React** 
 
 </div>
 
+## 🔗 Live Demo
+ 
+> **[👉 Try it live here →](https://your-live-demo-url.vercel.app)**
+ 
+<!-- Replace the URL above with your actual deployment link (Vercel / Netlify / GitHub Pages) -->
+ 
+> **💡 Deployment tip:** Deploy for free on [Vercel](https://vercel.com) by importing your GitHub repo. Your `VITE_WEATHER_API_KEY` can be added as an environment variable in the Vercel dashboard — no code changes needed.
+ 
+---
+ 
+## 📸 Preview
+ 
+<!-- Add a screenshot or GIF of your app here -->
+> _Add a screenshot or screen recording here to give visitors an instant visual impression._
+ 
+```
+📷 Tip: Use tools like Screenpresso, LiceCap, or your browser's DevTools device mode
+to capture a clean screenshot or GIF of the app in action.
+```
+ 
 ---
 
 ## ✨ Features
@@ -96,8 +116,19 @@ Feel free to check out the issues page if you want to contribute.
 4. Push to the Branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
+ 
 ---
-
+ 
+## 📄 License
+ 
+This project is open source and available under the [MIT License](LICENSE).
+ 
+---
+ 
 <div align="center">
-  Made with ❤️ by an enthusiastic developer.
+ 
+Made with ❤️ by [Sayandip](https://github.com/Sayandip98)
+ 
+⭐ **If you found this project useful, consider giving it a star!** ⭐
+ 
 </div>
