@@ -25,16 +25,7 @@ A clean, modern, and highly responsive weather application built with **React** 
  
 ---
  
-## 📸 Preview
- 
-<!-- Add a screenshot or GIF of your app here -->
 
- 
-```
-![Home](public/demo.png)
-```
- 
----
 
 ## ✨ Features
 
