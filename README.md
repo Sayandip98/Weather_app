@@ -31,8 +31,7 @@ A clean, modern, and highly responsive weather application built with **React** 
 
  
 ```
-<img width="771" height="400" alt="Screenshot 2026-07-09 112906" src="https://github.com/user-attachments/assets/f29e8378-a425-41fd-a159-635ee414dca7" />
-
+![Home](public/demo.png)
 ```
  
 ---
