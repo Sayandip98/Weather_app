@@ -15,6 +15,26 @@ A clean, modern, and highly responsive weather application built with **React** 
 
 </div>
 
+## 🔗 Live Demo
+ 
+> **[👉 Try it live here →](https://check-weather-city2.netlify.app/)**
+ 
+<!-- Replace the URL above with your actual deployment link (Vercel / Netlify / GitHub Pages) -->
+ 
+> **💡 Deployment tip:** Deploy for free on [Vercel](https://vercel.com) by importing your GitHub repo. Your `VITE_WEATHER_API_KEY` can be added as an environment variable in the Vercel dashboard — no code changes needed.
+ 
+---
+ 
+## 📸 Preview
+ 
+<!-- Add a screenshot or GIF of your app here -->
+
+ 
+```
+<img width="771" height="400" alt="Screenshot 2026-07-09 112906" src="https://github.com/user-attachments/assets/f29e8378-a425-41fd-a159-635ee414dca7" />
+
+```
+ 
 ---
 
 ## ✨ Features
@@ -42,7 +62,7 @@ Want to run this project locally? Follow these simple steps:
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/yourusername/weather-app.git
+https://github.com/Sayandip98/Weather_app.git
 cd weather-app
 ```
 
@@ -96,8 +116,19 @@ Feel free to check out the issues page if you want to contribute.
 4. Push to the Branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
+ 
 ---
-
+ 
+## 📄 License
+ 
+This project is open source and available under the [MIT License](LICENSE).
+ 
+---
+ 
 <div align="center">
-  Made with ❤️ by an enthusiastic developer.
+ 
+Made with ❤️ by [Sayandip](https://github.com/Sayandip98)
+ 
+⭐ **If you found this project useful, consider giving it a star!** ⭐
+ 
 </div>
