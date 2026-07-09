@@ -28,11 +28,11 @@ A clean, modern, and highly responsive weather application built with **React** 
 ## 📸 Preview
  
 <!-- Add a screenshot or GIF of your app here -->
-> _Add a screenshot or screen recording here to give visitors an instant visual impression._
+
  
 ```
-📷 Tip: Use tools like Screenpresso, LiceCap, or your browser's DevTools device mode
-to capture a clean screenshot or GIF of the app in action.
+<img width="771" height="400" alt="Screenshot 2026-07-09 112906" src="https://github.com/user-attachments/assets/f29e8378-a425-41fd-a159-635ee414dca7" />
+
 ```
  
 ---
