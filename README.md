@@ -17,7 +17,7 @@ A clean, modern, and highly responsive weather application built with **React** 
 
 ## 🔗 Live Demo
  
-> **[👉 Try it live here →](https://your-live-demo-url.vercel.app)**
+> **[👉 Try it live here →](https://check-weather-city2.netlify.app/)**
  
 <!-- Replace the URL above with your actual deployment link (Vercel / Netlify / GitHub Pages) -->
  
